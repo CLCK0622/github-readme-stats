@@ -1,3 +1,22 @@
+## What is this?
+
+As you can see, this is a GitHub README Stats hosted by @CLCK0622 on my own Vercel. 
+
+Considered the origin one frequently touched the request limit, you can use my domain as an alternative. 
+
+## How to use? 
+
+Just replace all the following urls(`https://github-readme-stats.vercel.app/`) in `![]()` with my domain (`https://readme-stats.clckblog.space/`), then you can enjoy the new services! :)
+
+```
+![CLCK's GitHub stats](https://readme-stats.clckblog.space/api?username=CLCK0622)
+```
+
+![CLCK's GitHub stats](https://readme-stats.clckblog.space/api?username=CLCK0622)
+
+
+---
+
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>

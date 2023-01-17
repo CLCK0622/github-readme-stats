@@ -1,6 +1,6 @@
 ## What is this?
 
-As you can see, this is a GitHub README Stats hosted by @CLCK0622 on my own Vercel. 
+As you can see, this is a GitHub README Stats hosted by @[CLCK0622](https://github.com/CLCK0622) on my own Vercel. 
 
 Considered the origin one frequently touched the request limit, you can use my domain as an alternative. 
 

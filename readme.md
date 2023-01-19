@@ -9,10 +9,10 @@ Considered the origin one frequently touched the request limit, you can use my d
 Just replace all the following urls(`https://github-readme-stats.vercel.app/`) in `![]()` with my domain (`https://readme-stats.clckblog.space/`), then you can enjoy the new services! :)
 
 ```
-![CLCK's GitHub stats](https://readme-stats.clckblog.space/api?username=CLCK0622)
+[![CLCK's GitHub stats](https://readme-stats.clckblog.space/api?username=CLCK0622)](https://readme-stats.clckblog.space/)
 ```
 
-![CLCK's GitHub stats](https://readme-stats.clckblog.space/api?username=CLCK0622)
+[![CLCK's GitHub stats](https://readme-stats.clckblog.space/api?username=CLCK0622)](https://readme-stats.clckblog.space/)
 
 The origin contents in `README.md` is attached below to show sincere respect to the creator!
 
